@@ -1,1 +1,3 @@
-pyopenms
+pyviz
+pyviz_comms
+jupyter-server-proxy
