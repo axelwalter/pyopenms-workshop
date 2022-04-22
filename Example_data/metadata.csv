@@ -1,0 +1,6 @@
+﻿Sample_name,Compound,Formula,[M+H]+,[M+2H]2+
+Kirromycin.mzML,Kirromycin,C43H60N2O12,797.4211,
+Epemicins.mzML,epemicinA,C76H132N2O32,1585.8841,793.4461
+Epemicins.mzML,epemicinB,C70H122N2O27,1423.8313,712.4204
+Leupeptin_std.mzML,Leupeptin,C20H38N6O4,427.3032,
+Pentamycin_std.mzML,Pentamycin,C35H58O12,653.3904,
