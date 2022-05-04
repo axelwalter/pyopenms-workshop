@@ -1,3 +1,4 @@
 *.tsv
 *.featureXML
 *.consensusXML
+results/*
